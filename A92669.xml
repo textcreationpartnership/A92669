@@ -1,0 +1,560 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe epistle to the learned Manasseh Ben Israel. In answer to his, dedicated to the Parliament. September. 6. Imprimatur John Downame</title>
+            <author>Spencer, Edward, Sir, 1595-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92669</idno>
+            <idno type="STC">Wing S16A</idno>
+            <idno type="STC">ESTC R229666</idno>
+            <idno type="EEBO-CITATION">99895345</idno>
+            <idno type="PROQUEST">99895345</idno>
+            <idno type="VID">152714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2317:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe epistle to the learned Manasseh Ben Israel. In answer to his, dedicated to the Parliament. September. 6. Imprimatur John Downame</title>
+                  <author>Spencer, Edward, Sir, 1595-1656.</author>
+               </titleStmt>
+               <extent>[6], 25, [13], 24 [i.e. 25], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 25 misnumbered 24.</note>
+                  <note>In both English and Latin.</note>
+                  <note>"Fratri suo spectatissimo Menasseh Ben Israel" has drop-head title with separate pagination and is in Latin; register is continuous.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Identified by ESTC as Wing (CD-ROM, 1996) S4945A.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manasseh ben Israel, 1604-1657 --  Early works to 1800.</term>
+               <term>Christianity and other religions --  Judaism --  Early works to 1800.</term>
+               <term>Judaism --  Relations --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152714:1"/>
+            <p>A Breife EPISTLE to the Learned <hi>Manaſſeh Ben Iſrael.</hi> In Anſwer to his, Dedicated to the <hi>PARLIAMENT.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>September.</hi> 6.</date>
+                     </dateline>
+                  </opener>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>JOHN DOWNAME.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London,</hi> 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152714:2"/>
+            <pb facs="tcp:152714:2"/>
+            <head>TO MY ANCIENT FRIEND <hi>William Lenthall</hi> Eſquier, M<hi rend="sup">r</hi> of the Rolles.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Can, to none more juſtly, dedicate this little worke of mine of a few dayes production, which ayms at the converſion of the Jewes, than to you who now hold the place of M<hi rend="sup">r</hi> of the Rolles, which was the Inn or
+<pb facs="tcp:152714:3"/>Hoſpitall of the converted Jewes; and therefore it is fit you ſhould take notice of the be<g ref="char:EOLhyphen"/>ginning, of their converſion: And I am aſſured you feare not the too ſudden converſion of them, but doe much deſire at; and by this little Treatiſe there is abundant caution given, that the converted ſhould not be bur<g ref="char:EOLhyphen"/>denſome to the State, and after your peruſall of this ſmall peece, which you approv'd as a fayre attempt towards their converſi<g ref="char:EOLhyphen"/>on, ſaying, there was no hurt in it, but wiſhing it had beene done more ſeriouſly. To which I make this reply, That <hi>Manaſlehs</hi> trea<g ref="char:EOLhyphen"/>tiſe beeing ſo ſlight, deſerved no better. And this may chance do more to their converſion than the
+<pb facs="tcp:152714:3"/>many ſerious labours of very good and judicious Authours have done. As all the care and endeavour of a skilfull paynter, who deſired to expreſſe the foame of a beaſt, could not at<g ref="char:EOLhyphen"/>taine unto it to ſatisfie himſelf, yet by an angry daſh of his pen<g ref="char:EOLhyphen"/>cill or ſpunge, thereby ſaw a rare expreſſion of it: So may this careleſſe doſh of my pen doe ſomewhat, which if it may pleaſe you and good men, and bring downe their haughtineſſe, I have my ayme.</p>
+            <closer>
+               <signed>
+                  <hi>Your humble ſervant</hi> E.S. Middleſex.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:152714:4"/>
+            <pb facs="tcp:152714:4" rendition="simple:additions"/>
+            <head>To my deare brother <hi>Manaſſeh Ben Iſrael the Hebrew Phi<g ref="char:EOLhyphen"/>loſopher.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, I kindly take <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dedication of your Booke, as one who am a Member of that Houſe you ſo much honour, &amp; your acknowledgement that we of that Houſe do highly fa<g ref="char:EOLhyphen"/>vour your Nation; and ſeeing you would yet have us love you more and more, I will tell you what is the true bond of Love &amp; the great<g ref="char:EOLhyphen"/>teſt obligation, even true Religion, wherein becauſe you yet fall ſhort, I cannot yet love you ſo much as I
+<pb n="2" facs="tcp:152714:5"/>would, but I doe abundantly pitty you, that you yet live in darkeneſſe and the ſhadow of death, and will not entertaine that light which your <hi>Adonai</hi> and ours hath ſent into the world. But what yet we have done of any glorious action, I cannot yet acknowledge, it may be I may finde it hereafter. And certainely it will be a very glorious action, if wee can convert your Nation of the <hi>Jewes</hi> to the fulneſſe of true beliefe.</p>
+            <p>And indeed I beleeve we are the likelyeſt Nation under Heaven to doe it. For wee hate Idolatry as much as you. Nor doe we worſhip any graven or paynted Images. I wiſh both ye and many of us were as free from inward Idolatry and did not worſhip our owne con<g ref="char:EOLhyphen"/>ceits and vaine Imaginations. But we have ſome that are free from that alſo, and are free from Covetouſ<g ref="char:EOLhyphen"/>neſſe which is Idolatry, I wiſh your Nation were ſo alſo. But I would
+<pb n="3" facs="tcp:152714:5"/>not have our nation put that hard precept of Chriſtianity upon you, that upon your converſion your goods ſhould bee confiſcated, that precept, to ſell all and give to the poore, is ill adminiſtred by the Ido<g ref="char:EOLhyphen"/>latrous Roman Congregation.</p>
+            <p>Secondly, we worſhip that one God which you doe, whether you call him <hi>Elohim</hi> or <hi>Adonai;</hi> but wee ſay, that <hi>Adonai</hi> belongs to us more than you, for you ſhall finde in the Pſalmes, that <hi>Elohim</hi> ſaid to <hi>Adonai,</hi> which wee declare thus; <hi>The Lord ſaid unto my Lord, ſit thou on my right hand, untill I make thine enemies thy footſtool:</hi> you cannot ſay but this is ſpoken of the Meſſias, and the <hi>filius Davidis,</hi> and hence wee collect two perſons in the Trinity, which one God, Trinity in Unity, we worſhip, and upon this very day, which wee call Trinity Sunday, the Sunday after the comming of the Holy Ghoſt. And we write <hi>de tribus Elohim</hi>
+               <pb n="4" facs="tcp:152714:6"/>which wee can prove out of the old teſtament. Thirdly we acknow<g ref="char:EOLhyphen"/>ledge with you the old teſtament to be the word of God, and receive no other Canon of it than you doe, herein wee both diſagree with the Romaniſt And wee ac<g ref="char:EOLhyphen"/>knowledge that God by your Na<g ref="char:EOLhyphen"/>tion hath preſerved the Canon of the old teſtament, and wee pray you may underſtand it as well as wee.</p>
+            <p>Fourthly, wee keepe a ſabbath as well as you, onely wee ſay that <hi>A<g ref="char:EOLhyphen"/>donat,</hi> being Lord of the Sabbath, changed the day; ſome other things there are wherein wee agree; and clearly in the whole decalogue, ſa<g ref="char:EOLhyphen"/>ving that alteration of the ſabbath.</p>
+            <p>Now Sir, I will ſhew you where<g ref="char:EOLhyphen"/>in you differ from your ſelfe, or fall ſhort of the truth, and that your hopes built upon <hi>Montezint's</hi> re<g ref="char:EOLhyphen"/>lation are very fallible, and nothing ſo Divine or reaſonable as our faith.</p>
+            <pb n="5" facs="tcp:152714:6"/>
+            <p> Your relation of <hi>Montezini</hi> is a double here<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firſt of him from the <hi>Cazic Francis,</hi> and that was alſo from his forefathers; then from <hi>Montezini</hi> to your ſelfe. That from the <hi>Cazic Francis,</hi> with that caution, that <hi>Montezini</hi> ſhould not aske him any queſtions, leaſt he ſhould make him to lie. [<hi>p.</hi> 10.] A very doubt<g ref="char:EOLhyphen"/>full buſines, whether <hi>Montezini</hi> did not aske him too many queſtions, or whether the <hi>Cazic</hi> being ſo apt to doe is, did not lye; but this upon the reſult muſt be the fullfilling of the propheſies, and induce our Parlia<g ref="char:EOLhyphen"/>ment men to kill the Kings of the earth, that Meſſias may reigne, and all the world may be under his governe<g ref="char:EOLhyphen"/>ment.</p>
+            <p>There are ſome of us apt enough to believe, that Chriſt ſhall raigne a thouſand yeares, and that they ſhall deſtroy all Monarchy. They have done prettily well for three kingdoms allready in one man,
+<pb n="6" facs="tcp:152714:7"/>but that your brethren the Scots call upon his ſonn<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſo will en<g ref="char:EOLhyphen"/>deavour to ſpoyle all the worke, but let them not follow their forefa<g ref="char:EOLhyphen"/>thers, your countreyman <hi>Iudas</hi> Iſcari<g ref="char:EOLhyphen"/>ot. They have done pretty well al<g ref="char:EOLhyphen"/>ready, in ſo barbarouſly hanging his beſt friend, that even our men raile upon them, and ſo will doe ſtill un<g ref="char:EOLhyphen"/>till they have purchaſed or con<g ref="char:EOLhyphen"/>quered their <hi>Sanhedrim.</hi> Have at them; Cromwell hath once con<g ref="char:EOLhyphen"/>quered them allready, for which they have given him thanks, and ſo may they doe againe.</p>
+            <p>But Sir, ye both well agree in pulling downe the Pope; but will you pull downe the Antichriſt? The Papiſts ſay, he muſt be of the tribe of <hi>Dan,</hi> will you pull down your bro<g ref="char:EOLhyphen"/>ther? Ye loved Muſique, your bre<g ref="char:EOLhyphen"/>thren the Scots hate all but the bag<g ref="char:EOLhyphen"/>pipes, or one of <hi>Robert VVi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edomes</hi> Pſalmes. But <hi>Brethren</hi> of <hi>Iſrael,</hi> bee adviſed, they will have a King of
+<pb n="7" facs="tcp:152714:7" rendition="simple:additions"/>their aun nation, have a care they prove not mongrells; they ſay they are Chriſtians, not altogether Jewes, <hi>England</hi> is their land of <hi>Canaan;</hi> yet they are aſwell diſper<g ref="char:EOLhyphen"/>ſed over all the world as yee: even to a proverbe in the German tongue. <hi>(Scotten Rotte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and baſe gelt goes all the world over.)</hi>
+            </p>
+            <p>But ye muſt joyne with ſome of us for a thouſand yeares raigne; their <hi>Nappier</hi> ſpeakes much againſt it, and very rationally. Well, then ioyne with thoſe <hi>Millenarians</hi> now or never. What though it hath been condemned for an Hereſie? <hi>Origen</hi> was a good Scholler, and a good <hi>Hebrician.</hi> You have alſo many of the ancients, and many of our Synod men on that part. But they will have the Sonne of <hi>Mary</hi> to raigne He is not for your new <hi>Meſ<g ref="char:EOLhyphen"/>ſias.</hi> Well then peece up aſwell as ye can, and finde ſome <hi>medium.</hi>
+            </p>
+            <p>For me, and thoſe of the true re<g ref="char:EOLhyphen"/>formed
+<pb n="8" facs="tcp:152714:8"/>Religion (though we have great hopes of your converſion) yet wee muſt ſay, that by theſe opinions of yours, you will cauſe the prophe<g ref="char:EOLhyphen"/>ſie to bee fulfilled, that the Meſſias ſhall come againe as a thiefe in the night For while yee loke for a glo<g ref="char:EOLhyphen"/>rious temporall King he will come out of the clouds with the ſound of the trumpet to judgment. <hi>Take heede of the Valley of Jehoſophat!</hi> But then indeed ſhall the true ſonnes of Abraham reigne with him the thouſand yeares of eternity. Take heede leaſt through ſuch wick<g ref="char:EOLhyphen"/>ed expectations yee and they thinke not the end of the world ſoe neere as it is, and through your want of faith and charity, yee cauſe not <hi>the dates to hee ſhortened,</hi> and that the world continue not the ſix thouſand yeares, before the <hi>long day</hi> of eternity comes, and ye be ſhut out into utter darkneſſe.</p>
+            <p>Connder therefore the Doctrine
+<pb n="9" facs="tcp:152714:8" rendition="simple:additions"/>of Iohn Baptiſt, and repent betimes, <hi>(yee have Moſes and the Prophets,)</hi> and looke well to the Starre, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>irgins Sonne,</hi> and the <hi>Branch,</hi> and ſee well whether he be not come already, and <hi>Flias</hi> in Saint <hi>John Baptiſt.</hi> Hath he not deſtroyed all the <hi>Idolls Temples</hi> and <hi>Oracles?</hi> Hath not hee rent the <hi>vaile of the Temple,</hi> and broken the <hi>pertition wall</hi> between <hi>Iew</hi> and <hi>Gentiles?</hi> Is not <hi>Shilo</hi> come, where is your <hi>King</hi> of <hi>Iuda?</hi> Was not <hi>Herod</hi> an <hi>Idumaean?</hi> Hath not he prepared a a <hi>heavenly kingdom</hi> for you, if you will <hi>beleeve</hi> in him? Brethren, be not ſo ſtupid to looke for an earthly kingdome. Is not the heavenly farr better? Yee believe a <hi>judgement day</hi> and a <hi>reſurrection;</hi> The <hi>Sadu<g ref="char:EOLhyphen"/>ces</hi> (I hope) have no ſect amongſt you now, then (<hi>ſee alſo p.</hi> 83. <hi>cap.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7) harken to your countrey-men, Paul and Peter, they will inter<g ref="char:EOLhyphen"/>pret the old teſtament better than
+<pb n="10" facs="tcp:152714:9"/>you doe. Who ſent <hi>Montezini</hi> to preach to you? Be not deluded with vain expectations, you and he ſay <hi>the time of your deliverance is con<g ref="char:EOLhyphen"/>cealed, and your people are concea<g ref="char:EOLhyphen"/>led untill that day,</hi> and beleeve me; or your owne Prophets and Nati<g ref="char:EOLhyphen"/>on, ye will ſtill be ſo, untill ye come into utter darkeneſſe, if ye repent not, and know ye have crucified the Lord Jeſus. For examine your ſelves in what is revealed: have not all of you a bloody iſſue about your bo<g ref="char:EOLhyphen"/>dies, <hi>(See the booke of the bleſſed Jewe of Morrocco)</hi> and doe not the Italians ſay, <hi>they ſmell a Jew before they diſcerne him with their eyes?</hi> Did not your forefathers ſay, <hi>His blood be upon us and our children?</hi> Was not his propheſie fulfilled in the <hi>deſtruction of your Temple,</hi> and the diſperſion of the reliques of your na<g ref="char:EOLhyphen"/>tion? What plainer ſignes would you have? What plainer propheſies? O brethren, be not wilfully blinde.</p>
+            <pb n="11" facs="tcp:152714:9"/>
+            <p> My conſent ye ſhall have, that you and your people ſhall live in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and have meeting places to worſhip <hi>Adonai,</hi> but no place for ſacrifices, for that were to deny Chriſt, as your owne Countryman, <hi>Paul</hi> hath told you. And ye ſhall bee allowed to expound the Old Teſtament, and Chriſtians ſhall be admitted to heare you, and you ſhall admit them to teach you. And indeed, wee have yet ſome that are very skilfull in the Eaſterne tongues. You may doe well to give them good Penſions, to teach your nation, and they are ſo poore they had neede of it. But let me intreat you, not to endea<g ref="char:EOLhyphen"/>vour to deſtroy Kings, untill Chriſt come. You will hardly deſtroy the Popiſh Kings, and if yee deſtroy the Proteſtant, yee will cauſe the Papiſts to prevaile.</p>
+            <p>I had thought to have ſhewed you, the ſlenderneſſe of your
+<pb n="12" facs="tcp:152714:10"/>proofes and expectations of your Earthly Monarch and Meſſias; but but I had rather you would conſi<g ref="char:EOLhyphen"/>der the full proofes of our beliefe, and the reaſonableneſſe of the grounds thereof, to the helpe of your people herein. I wiſh reverend Doctor <hi>Hammond</hi> would put his little booke of the reaſonableneſſe of Chriſtian religion into La<g ref="char:EOLhyphen"/>tin.</p>
+            <p>I like well your intention, that you will continue the hiſtory of your countrey-man <hi>Ioſephus.</hi> ſee. <hi>P.</hi> 44.45. &amp;c chap. 16.</p>
+            <p>I had thought heere to have made an end of my diſcourſe with you, ſeeing your writing ſo vaine and frivolous, but truely my bow<g ref="char:EOLhyphen"/>ells yearne after your converſion, and I muſt ſay, wee Chriſtians doe a great deale more honour your Nation than you your ſelves. For wee worſhip that country-man of yours, that ſonne of of <hi>David,</hi> and
+<pb n="13" facs="tcp:152714:10" rendition="simple:additions"/>of <hi>Mary,</hi> the <hi>Sonne</hi> of the <hi>moſt high God, perfect God, and per<g ref="char:EOLhyphen"/>fect man, whom you and wee cru<g ref="char:EOLhyphen"/>cified,</hi> though the eternall act of his crucifixion was done by your forefathers alone. We reverence all your progenitors, and prophets. Wee reverence our fathers in Chriſt of your nation, the holy <hi>Di<g ref="char:EOLhyphen"/>ſciples</hi> and Apoſtles, who by their preaching overthrew all the vaine Gods of the gentiles, and ſuffered Martyrdome for the beliefe and expectation of your forefathers; they indeed raiſed up ſeed to your father <hi>Abraham,</hi> and wee are the ſonns of his faith, which wee have nowe held forth almoſt as long as the law was held forth. Wee yet hold forth the eternall lawe of God, the Ten Commandements, though the law of <hi>ceremonies bee abrogated,</hi> by that one ſacrifice of him upon the croſſe, <hi>who was a Prieſt after the order of Melchiſe<g ref="char:EOLhyphen"/>dek.</hi>
+               <pb n="14" facs="tcp:152714:11"/>And what prieſts have you of the order of <hi>Aaron?</hi> You muſt goe looke for them, you know not where; amongſt the Indians. <hi>Mon<g ref="char:EOLhyphen"/>tezini</hi> may be your guide, to bring you to the Cave of <hi>Montezint</hi> in <hi>Don Quixot.</hi> But <hi>Brother,</hi> though I could ſay enough farther upon this point out of the old teſtament and the Pſalmes, yet I will leave that to ours who are more learned in the Eaſterne tongues.</p>
+            <p>And nowe come againe to that which is moſt proper for my part. The preparations for your ad<g ref="char:EOLhyphen"/>miſſion into England, to which, if the Parliament ſhall thinke fit, I ſhall give my directions and cau<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="1">1. Firſt, I doubt whether we may admit you to circumciſe in our land. For ſhould wee doe it, wee ſhould <hi>deny Chriſt to bee come.</hi> And yee need not alwaies doe it; for it was not done <hi>for fortie
+<pb n="15" facs="tcp:152714:11"/>yeares in the wilderneſſe,</hi> and o<g ref="char:EOLhyphen"/>mitted for long times in your cap<g ref="char:EOLhyphen"/>tivity; and truly you doe but cru<g ref="char:EOLhyphen"/>cify Chriſt againe by it, in deny<g ref="char:EOLhyphen"/>ing him to be the Meſſias, and ſo do your brethren the Turkes.</p>
+            <p>Well then; will you forbeare that, if you ſhould live amongſt us? We will but deſire you to for<g ref="char:EOLhyphen"/>beare it till Meſſias come to have an earthly kingdome, ſome of you ſay, that is to be very ſhortly.</p>
+            <p n="2">2. In lieu of this, we will neither force you, nor any of your chil<g ref="char:EOLhyphen"/>dren to be chriſtned, wee hold that an abomination; but if any of you will repent and believe, wee will chriſten them; but if anyfall backe, wee muſt puniſh them: and wee muſt tell you, the <hi>Rolles in Chancery lane is the Hoſpitall of the converted Jewes,</hi> and wee will make more colledges for ſuch converts, if there be neede.</p>
+            <p n="3">3. He that dyes a chriſtian ſhall
+<pb n="16" facs="tcp:152714:12"/>enjoy his whole eſtate, and he that dyes a Iew ſhall leave but a third part to his poſterity, one third to the ſtate of this land, and one third to the maintenance of converted Iews.</p>
+            <p n="4">4. There ſhall be a viewe at their entrance taken of their names and circumciſions that have beene heretofore, and a Record kept con<g ref="char:EOLhyphen"/>ſtantly, that the circumciſed may be entred, which if they neglect, they ſhall ſuffer death and confiſca<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="5">5. Every yeare a ſearch ſhall be made, whether any male childe be circumciſed, and if done in En<g ref="char:EOLhyphen"/>gland, or the Dominions thereof, a conſiſcation of halfe the parents eſtate ſhall enſue. If any lew under<g ref="char:EOLhyphen"/>take to circumciſe a chriſtian, he ſhall ſuffer the paines of death and confiſcation, in what Nation ſoever he doth it.</p>
+            <p n="6">6. They may come of both ſexes
+<pb n="17" facs="tcp:152714:12"/>to chriſtian praiers and ſermons unconverted, ſo they behave them<g ref="char:EOLhyphen"/>ſelves reverently and decently. And once in the yeare, viz. on Good Fry<g ref="char:EOLhyphen"/>day or the day of <hi>Crucifixion,</hi> they ſhall be compelled to come, &amp; then the names both of men, women and children to be taken, and recorded. As alſo the names of the converts.</p>
+            <p n="7">7. They may well pay double cu<g ref="char:EOLhyphen"/>ſtome, both they and the <hi>Poſtnati</hi> borne in England, untill they be converted, and then to pay only ſingle cuſtome.</p>
+            <p n="8">8. They ſhall keepe no Fraternityes or Guilds, but by ſpeciall licenſe, but they may dwell and trade in any part of England. No corpo<g ref="char:EOLhyphen"/>rations to be allowed but to thoſe of the converted Iewes; &amp; all in ge<g ref="char:EOLhyphen"/>nerall ſhall maintaine their owne poore.</p>
+            <p n="9">9. None of either ſex ſhall marry with any Chriſtian, nor ſhall any
+<pb n="18" facs="tcp:152714:13"/>chriſtian marry with them, untill they be converted.</p>
+            <p n="10">10. If they ſhall endeavour to raiſe up any of their owne nation to be their King, thoſe that are guilty thereof ſhall ſuffer death and con<g ref="char:EOLhyphen"/>fiſcation.</p>
+            <p n="11">11. If they joyne with the Anabap<g ref="char:EOLhyphen"/>tiſt or Leveller to raiſe a Captaine Generall, ſuch as <hi>Iohn</hi> of <hi>Leyden</hi> or <hi>Knipperdoling,</hi> they ſhall ſuffer death and conſiſcation.</p>
+            <p n="12">12. They ſhall be ſubject to all o<g ref="char:EOLhyphen"/>ther lawes of the land. To theſe lawes the Parliament may add or diminiſh as they pleaſe, in relation to the government of the Iews.</p>
+            <p>And now brother <hi>Manaſſeb,</hi> to give you one touch more for a farewell; you know how long the world hath laſted hitherto; ſome ſay two thouſand years before the law, two thouſand yeares under the law, and 1650 ſince the lawe, this is
+<pb n="19" facs="tcp:152714:13"/>the yeare of Iubilee, look for the ſab<g ref="char:EOLhyphen"/>bath day of eternity, it may be the world ſhall not laſt ſix thouſand yeares. There are five thouſand ſix hundred and fifty paſſing, and there is no roome for <hi>Meſsias</hi> his one thouſand yeares reigne upon earth. Will you hear a ſtory I have lately heard, and I hope to make out the record better than you doe that of <hi>Montezinies.</hi>
+            </p>
+            <p>It is thus; one of your great Rab<g ref="char:EOLhyphen"/>bins upon his death-bed, in the Low-countreyes, not many yeares ſince, called his people to him, and ſaide, <hi>Wee have long, expected our</hi> Meſſias, <hi>and hee doe not come in the yeare</hi> 1650. <hi>or</hi> 51. <hi>Embrace the Chriſtians</hi> Meſſias, <hi>for he muſt needes have beene the man.</hi> And at his throne no doubt all Proteſtant Kings will caſt downe their Crownes. Looke upon ſome of the pſalmes, I will direct you to a
+<pb n="20" facs="tcp:152714:14"/>few viz. 65. <hi>v.</hi> 2.5.7.8.13. <hi>Pſa.</hi> 66. <hi>V.</hi> 1.2.3.6. <hi>Pſa.</hi> 67. All the Pſalme <hi>Pſa.</hi> 68. For this dayes mor<g ref="char:EOLhyphen"/>ning prayer <hi>v.</hi> 1. <hi>Let God ariſe, and let his enemies bee ſcattered, let them alſo that hate him fly before him.</hi> 2.3.4.5.6.11.12.13.14.15.16.17.18. <hi>Thou art gone up on high, thou haſt led captivity captive, and received gifts for men: yea, even for thine enemies, that the Lord God might dwell among them.</hi> 19.20.21.22.23.27. <hi>There is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> little Benjamin their ruler, and the Princes of</hi> Juda <hi>their councell: the Princes of</hi> Zabulon, <hi>and the Princes of</hi> Napthali. Obſerve that your firſt King was a Benjamite, and obſerve how many of your tribes ſhall returne. 28.29.30.31.32.33.34. <hi>Aſcribe yee the power to God over Iſraell his worſhip and ſtrength is in the clouds.</hi> Why will yee then have it a temporall reigne upon earth.</p>
+            <pb n="21" facs="tcp:152714:14"/>
+            <p> See the eightieth Pſal. <hi>v.</hi> 14. <hi>Turn thee againe thou God of Hoſtes, looke downe from heavan, behold and viſit this vine,</hi> v. 15. <hi>and the place of the vineyard, that thy right hand hath planted: and the branch that thou ma<g ref="char:EOLhyphen"/>deſt ſo ſtrong for thy ſelfe.</hi> v. 17. <hi>Let thy hand bee upon the man of thy right hand and upon the Sonne of man whom thou madeſt ſo ſtrong for thine owne ſelfe.</hi>
+            </p>
+            <p>Your Rabbins ſay, there are two <hi>Meſſiahs,</hi> that of ours you call <hi>Ben Joſeph,</hi> But you expect <hi>Meſſiah Ben David.</hi> Was not ours <hi>Ben David?</hi> Looke upon the Pedegrees in <hi>Ma<g ref="char:EOLhyphen"/>thew</hi> and <hi>Luke,</hi> in the latter you ſhall finde <hi>Maries</hi> Pedegree, who was the right heire after her eſpou<g ref="char:EOLhyphen"/>ſed <hi>Joſeph</hi> was dead.</p>
+            <p>Behold, a <hi>
+                  <g ref="char:V">Ʋ</g>irgin did conceiv and beare a Sonne; This was the Branch,</hi> and the <hi>Man of Gods right hand,</hi> and he was called <hi>Wonder<g ref="char:EOLhyphen"/>full</hi>
+               <pb n="22" facs="tcp:152714:15"/>and <hi>Emanuel.</hi> And often called in his life time by prophe<g ref="char:EOLhyphen"/>ticke ſpirits whom he cured, the the <hi>Sonne of David,</hi> nay the Di<g ref="char:EOLhyphen"/>vels themſelves confeſſed he was the <hi>Sonne of David,</hi> and quarrelled with him, becauſe hee <hi>came to tor<g ref="char:EOLhyphen"/>ment them before their time.</hi>
+            </p>
+            <p>It was a wonderfull production. The <hi>Spirit of God overſhadowed this Virgin,</hi> &amp;c. Why ſhould not that make her fruitfull, as it did the Abyſſe in the firſt of Geneſis, <hi>v.</hi> 2 <hi>Ter<g ref="char:EOLhyphen"/>ra erat inanis et vacua, et tenebrae erant ſuper faciem abyſſi, &amp; Spiritus do<g ref="char:EOLhyphen"/>mini ferebatur ſuper aquas:</hi> There have you the third perſon in the Trini<g ref="char:EOLhyphen"/>ty. <hi>Et dixit Deus, fiat Lux, &amp; facta eſt Lux.</hi> And as upon this <hi>incubati<g ref="char:EOLhyphen"/>on Light</hi> was made, ſo upon this <hi>obumbration,</hi> our faviour Chriſt, the true and everlaſting <hi>Light,</hi> was brought forth by the holy Ghoſt in the ſhape of man. What would
+<pb n="23" facs="tcp:152714:15" rendition="simple:additions"/>you have more? See <hi>Sylou ſcintil<g ref="char:EOLhyphen"/>lane,</hi> 97. pag.</p>
+            <lg>
+               <l>
+                  <hi>To ſee the humbleſt maid with light dy<g ref="char:EOLhyphen"/>vine,</hi>
+               </l>
+               <l>
+                  <hi>in pooreſt dreſſe ſo brightly ſhine,</hi>
+               </l>
+               <l>
+                  <hi>In darkeſt wombe to hide the light,</hi>
+               </l>
+               <l>
+                  <hi>till that his ſtarre did ſhew this ſight.</hi>
+               </l>
+               <l>
+                  <hi>All this and more we wondring ſee</hi>
+               </l>
+               <l>
+                  <hi>diſclos'd by faith and &amp; hope in thee.</hi>
+               </l>
+               <l>
+                  <hi>All this and more were but to ſee</hi>
+               </l>
+               <l>
+                  <hi>our God take fleſh and borne of thee.</hi>
+               </l>
+               <l>
+                  <hi>The ſhepheards weet harmeleſſe lives!</hi>
+               </l>
+               <l>
+                  <hi>(on whoſe holy leaſure,</hi>
+               </l>
+               <l>
+                  <hi>waites innocence and pleaſure)</hi>
+               </l>
+               <l>
+                  <hi>Whoſe leaders to thoſe paſtures and</hi>
+               </l>
+               <l>
+                  <hi>cleare Springs,</hi>
+               </l>
+               <l>
+                  <hi>were Patriarchs, Saints and Kings.</hi>
+               </l>
+               <l>
+                  <hi>How happened it that in the dead of night,</hi>
+               </l>
+               <l>
+                  <hi>you only ſaw true light.</hi>
+               </l>
+               <l>
+                  <hi>VVhile Paleſtine was faſt a ſleepe &amp; lay</hi>
+               </l>
+               <l>
+                  <hi>without one thought of day?</hi>
+               </l>
+               <l>
+                  <hi>Was it becauſe thoſe firſt and bleſſed ſwaines</hi>
+               </l>
+               <l>
+                  <hi>were pilgrims, on thoſe plaines</hi>
+               </l>
+               <pb n="24" facs="tcp:152714:16"/>
+               <l>
+                  <hi>When they receiv'd the promiſe, for which now</hi>
+               </l>
+               <l>
+                  <hi>twas there firſt ſhowne to you.</hi>
+               </l>
+               <l>
+                  <hi>Perhaps ſome harmeleſſe cares for the next day</hi>
+               </l>
+               <l>
+                  <hi>did in their boſomes play,</hi>
+               </l>
+               <l>
+                  <hi>As where to leade their ſheepe, what ſilent nooke</hi>
+               </l>
+               <l>
+                  <hi>what Springs or ſhades to looke.</hi>
+               </l>
+               <l>
+                  <hi>But that was all; and now with gladſom care,</hi>
+               </l>
+               <l>
+                  <hi>they for the towne prepare.</hi>
+               </l>
+               <l>
+                  <hi>They leave their flock, &amp; in a buſie talke</hi>
+               </l>
+               <l>
+                  <hi>all towards</hi> Bethlem <hi>walke,</hi>
+               </l>
+               <l>
+                  <hi>To ſee their ſoules great Shepheard who was come</hi>
+               </l>
+               <l>
+                  <hi>to bring all ſtraglers home.</hi>
+               </l>
+               <l>
+                  <hi>Where now they find him out, and taught before,</hi>
+               </l>
+               <l>
+                  <hi>that lambe of God to' adore.</hi>
+               </l>
+               <l>
+                  <hi>That lambe whoſe dayes great Kings &amp; Prophets wiſh'd</hi>
+               </l>
+               <l>
+                  <hi>and long'd to ſee, but miſs'd.</hi>
+               </l>
+               <pb n="25" facs="tcp:152714:16"/>
+               <l>
+                  <hi>The firſt light they beheld was bright and gay,</hi>
+               </l>
+               <l>
+                  <hi>and turned their night to day.</hi>
+               </l>
+               <l>
+                  <hi>But to this later light they ſaw in him,</hi>
+               </l>
+               <l>
+                  <hi>their day was darke and dim.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sanctae &amp; individuae Trinitati Gloria,</l>
+               <l>Gloria Deo in excelſis, in terra Pax, &amp;c.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="letter">
+            <pb facs="tcp:152714:17"/>
+            <pb facs="tcp:152714:17"/>
+            <head>Praenobili Domino <hi>Edvardo Spencero</hi> Militi, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <opener>
+               <salute>Ornatiſſime vir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Pem noſtram de Gentis Judaicae converſione, faelici<g ref="char:EOLhyphen"/>ter expergefeciſti: quam licet ſemper ſpectavimus ut certam, nunquam tamen ut propinquam: non ut opus hu<g ref="char:EOLhyphen"/>jus, ſed alicujus venturi ſaeculi. Cum enim conſideramus quot procellae, turbines, ac tempeſta<g ref="char:EOLhyphen"/>tesubi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> gentium, orbem Chriſti<g ref="char:EOLhyphen"/>anum
+<pb facs="tcp:152714:18"/>mir è perturbant! quan<g ref="char:EOLhyphen"/>tilla autem ſpes ſit remedij, aut alicujus vicinae pacis! quam omnia in praecipiti nutant! &amp; in Catholicam ruinam cedunt! Quis Chriſtianae fidei <hi>Atlas,</hi> aut ſpei <hi>Hercules</hi> tanto oneri pares praebere poterit humeros? Cum naufragio periiſſe viſa eſt Cha<g ref="char:EOLhyphen"/>ritas, quis è perituris <hi>ſecundam tabulam</hi> admovebit <hi>Iudaeis</hi> jam clim perditis? Cum nobis non convenit inter nos, quis noſtrae communionis participem dedet ſuam animam? Sed eſto! Spes, non eſt niſi fit de arduis. Hebraee auſculta: <g ref="char:V">Ʋ</g>ir doctus, &amp; nobilis: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Genere, &amp; Genio honorandus, rem illam ar<g ref="char:EOLhyphen"/>duam aggreditur! Quidui per di<g ref="char:EOLhyphen"/>vinum auxilium &amp; auſpicium opus hoc poſſibile redderetur?
+<pb facs="tcp:152714:18"/>Heu! nimium faciles Hebraeos, ſe gentium idolis &amp; ſuperſtitioni<g ref="char:EOLhyphen"/>bus olim praebuiſse, teſtantur om<g ref="char:EOLhyphen"/>nes ad unum prophetae Iſraelitae. In <hi>Dominum noſtrum Ieſum Chriſtum</hi> qualis, quanta, &amp; qua<g ref="char:cmbAbbrStroke">̄</g> obſtinata durities? Adeone mu<g ref="char:EOLhyphen"/>tuari d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um alienum ab <hi>Ethnicis,</hi> in promptuest? Deum autem ve<g ref="char:EOLhyphen"/>ſtrum communicare <hi>Ethnicis</hi> a<g ref="char:EOLhyphen"/>deò molestum eſt? Qualis eſt haec juſtitia? Crudeles Judaei, aut vo<g ref="char:EOLhyphen"/>bis aut peregrinis! Deum non vultis veſtrum eſſe, quia noſter eſſe dignatus eſt. Si haec non ſit ratio <hi>Iudiaicae</hi> inſaniae, Iſtaneceſ<g ref="char:EOLhyphen"/>ſe erit. Quod ſuae non divinae ſa<g ref="char:EOLhyphen"/>tis factioni inhiarunt. Miſerias prius quaeſe, quam peccata quae Deum premunt removeri ſem<g ref="char:EOLhyphen"/>per placuit. Idcircò <hi>Beatum Ie<g ref="char:EOLhyphen"/>ſum Bar-Mariae</hi> qui ſuo primo
+<pb facs="tcp:152714:19"/>adventu <hi>Deo</hi> ſatisfecit potius quam <hi>Iudaeo;</hi> A <hi>Iudaeo</hi> aſperna<g ref="char:EOLhyphen"/>tur. Qui <hi>peccata</hi> prius ſtuduit tollere quam <hi>miſerias</hi> nullo modo his <hi>Meſſiah</hi> eſſe poterit. Sed eli<g ref="char:EOLhyphen"/>gunt in <hi>peccatis</hi> ſimul &amp; <hi>miſe<g ref="char:EOLhyphen"/>rijs</hi> per multa annorum ſaecula inter varias gentes comminui, potius quam hanc <hi>methodum</hi> amplecti.</p>
+            <p>Sed age, <hi>Illuſtriſſime Domine,</hi> hunc foelicem conatum proſeque<g ref="char:EOLhyphen"/>re, occaſionemque ſapiens ut ar<g ref="char:EOLhyphen"/>ripuiſti, ſic faxit <hi>Deus</hi> ſinem o<g ref="char:EOLhyphen"/>peris proſperè conſequaris. Ita precatur, <hi>Domine,</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Humilimus tuus in Chriſto Jeſu Servus &amp; Jeſu Chriſti conſervus</hi> N. B.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="to_the_reader">
+            <pb facs="tcp:152714:19"/>
+            <head>Lectori.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Ector, ſisve <hi>Judaeus,</hi> vel ex nobili <hi>Gentium</hi> ſtir<g ref="char:EOLhyphen"/>pe, non in malam par<g ref="char:EOLhyphen"/>tem acceptum erit ſpero. Si le<g ref="char:EOLhyphen"/>vi manu tangam quod ſcopus eſt hujus puſilli operis. Quod (prae<g ref="char:EOLhyphen"/>ter ablationem ſcandali ex eo quod nonnulli failè credent af<g ref="char:EOLhyphen"/>ctionem noſtram eſſe eximiam &amp; nimis magnam ad intro<g ref="char:EOLhyphen"/>ducendam incredulam Iudae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rum Nationem, quandoquidem maximo deſiderio proſequimur illorum converſionem.) altiorem
+<pb facs="tcp:152714:20"/>habet finem &amp; metam, continua<g ref="char:EOLhyphen"/>tionem ſcilicet induſtriae Docto<g ref="char:EOLhyphen"/>rum noſtratium, hominum, in <hi>linguis orientalibus</hi> peritorum: Et animum addere induſtriae eorum, ad operandum, verbo ſcripto<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ejuſdem Nationis con<g ref="char:EOLhyphen"/>verſionem. Quandoquidem nec recté loqui eam orationem poſsi<g ref="char:EOLhyphen"/>mus <hi>Adveniat Regnum tuum,</hi> ni maximopere studeamus <hi>Iſ<g ref="char:EOLhyphen"/>raelis reſtaurationem,</hi> ut ita ſimus <hi>unicum ovile ſub unico paſtore Salvatore noſtro Jeſu Chriſto, qui intranubes veniet circumvallatus &amp; circumſep<g ref="char:EOLhyphen"/>tus totis caeleſtium cohortibus ad judicium, &amp; ad ſeparatio<g ref="char:EOLhyphen"/>nem Caprorum ab Ovibus.</hi> Tunc certe nos, qui credentes
+<pb facs="tcp:152714:20"/>ſumus, maximo maerore affecti erimus, ſi videbimus totam iſtam gentem quae ſuper terram ma<g ref="char:EOLhyphen"/>nebit, per nimiam expectatio<g ref="char:EOLhyphen"/>nem &amp; deſiderium Monarchiae terreſtris caeleſtem illam amit<g ref="char:EOLhyphen"/>tere. Per longum abhinc tempus in uſum venit in diem <hi>Crucifix<g ref="char:EOLhyphen"/>ionis</hi> preces ſundere pro eorum converſione. Nunc etiam optimè actum eſſet ſi jejunium appoſitum opus continuaremus anniverſari um, &amp; preces funderemus. Quod <hi>faxit Deus.</hi> Ita precatur puſillus <hi>Author.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152714:21"/>
+            <pb facs="tcp:152714:21"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, whether you be <hi>Jew</hi> or <hi>Gentile,</hi> I think it will not bee taken amiſſe that I give you a little touch of the intent of this lit<g ref="char:EOLhyphen"/>tle peece, Which beſides the taking off the ſcandall of our too great deſire of entertay<g ref="char:EOLhyphen"/>ning the unbeleeving Nation of the <hi>Jewes,</hi> and yet our ear<g ref="char:EOLhyphen"/>neſt wiſhes of their conver<g ref="char:EOLhyphen"/>ſion, hath alſo another aime, to continue the indu<g ref="char:EOLhyphen"/>ſtry of our learned men in the <hi>Eaſterne</hi> Tongues, and to en<g ref="char:EOLhyphen"/>courage
+<pb facs="tcp:152714:22"/>ſome of them to take more paines in endeavoring that Nations Converſion by word and writing, ſeeing wee cannot ſay that Prayer, <hi>Thy kingdome come,</hi> unleſſe we en<g ref="char:EOLhyphen"/>deavour the reſtoring of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> that wee may bee <hi>one flock under one Shepheard our Lord and Saviour Chriſt Ie<g ref="char:EOLhyphen"/>ſus, who ſhall come to Judge<g ref="char:EOLhyphen"/>ment in the clouds attended with the whole hoaſt of Hea<g ref="char:EOLhyphen"/>ven,</hi> to <hi>ſeparate the Goaets from the Sheepe,</hi> and we who are beleevers ſhould bee loath to ſee that whole Nation, who are left upon earth at that day, by their expectation of an earthly Monarch ſhould looſe
+<pb facs="tcp:152714:22"/>the heavenly. Therefore we have uſed to pray for their converſion upon the day of <hi>Crucifixion,</hi> and therefore may well faſt and pray upon that day anniverſarily, which that wee may all ſtill continue is the hearty deſire of the ſmall <hi>Author</hi>
+            </p>
+            <closer>
+               <signed>E. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="text">
+            <pb facs="tcp:152714:23"/>
+            <pb n="1" facs="tcp:152714:23"/>
+            <head>Fratri ſuo ſpectatiſſimo <hi>Menaſſeh Ben Iſrael</hi> Hebraeo Philoſopho. S.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Edicationem libelli tui aequi bonique conſulo Ioſe, pars nonnulla e<g ref="char:EOLhyphen"/>juſdem (quem tanto honore proſequeris) <hi>Confeſſus:</hi> nec minori ſtudio, am<g ref="char:EOLhyphen"/>plector gratam tuam recognitio<g ref="char:EOLhyphen"/>nem, iſtius favoris, quo Nos ejuſdem <hi>Conſeſſus</hi> (vti dicis) veſtram Gen<g ref="char:EOLhyphen"/>tem dignamur. Et quoniam vult Dominatio tua, nos indies vobis magis magiſque amorem noſtrum impertire: dicam tibi quid ſit ve<g ref="char:EOLhyphen"/>riſſimum amoris vinculum, et
+<pb n="2" facs="tcp:152714:24"/>maximum ligamentum; verus ſci<g ref="char:EOLhyphen"/>licet, in vera Religione conſenſus, et unio. Qua in re quoniam non<g ref="char:EOLhyphen"/>dum Nobis ſatis aut Chriſto feci<g ref="char:EOLhyphen"/>ſtis, tantu<g ref="char:cmbAbbrStroke">̄</g> amorem vobis impertire, Mihi necdum licet, quantum a<g ref="char:EOLhyphen"/>lias facile liberet, intimiſque me<g ref="char:EOLhyphen"/>dullis cupio. Sed totis viſceribus genti veſtrae miſereor, quatenus adhuc in tenebris, et umbra mor<g ref="char:EOLhyphen"/>tis miſerrimè circumvagamini: nec vultis perſuaderi, <hi>Lucem</hi> illam quam <hi>Adonai</hi> tam veſter, quam noſter, <hi>miſit in Mundum;</hi> ample<g ref="char:EOLhyphen"/>cti. Sed honorem cujuſquam glo<g ref="char:EOLhyphen"/>rioſae actionis, ſeu ſplendidi fa<g ref="char:EOLhyphen"/>cinoris nondum admitto, nec agnoſco; amodò fortaſſis tale aliquid patrare, et arrogare Nobis licebit. Et certe glorioſiſſimus erit ille conatus, ſi noſtrâ operâ gens veſtra Iudaica converſa fuerit, et adſcita in <hi>communionem,</hi> ac <hi>ple<g ref="char:EOLhyphen"/>nitudinem verae fidei.</hi>
+            </p>
+            <pb n="3" facs="tcp:152714:24"/>
+            <p> Et ſanè nullus dubito, quin <hi>Noſtra Gens</hi> ex omnibus quae in toto Orbe Terrarum degunt Nationi<g ref="char:EOLhyphen"/>bus, huic operi ſit maxime par, et idonea. Pari enim vobiſcum idololatriam odio proſequimur; nec quemquam venerari patimur ſculptile, aut pictas imagines; Utinam tam vos, quam multi è no<g ref="char:EOLhyphen"/>bisaeque immunes eſſemus ab I<g ref="char:EOLhyphen"/>dololatria interna; nec coleremus noſtras proprias Phantaſias et vanas Imaginationes. Sunt ta<g ref="char:EOLhyphen"/>mem noſtri aliquot, <hi>immunes ab illis etiam malis:</hi> ficut et ab <hi>ava<g ref="char:EOLhyphen"/>ritia,</hi> quae eſt Idololatria <hi>veſtrae</hi> (ni fallor) <hi>Gentis.</hi> Sed ipſe nolim durum, iſtud Chriſtianita<g ref="char:EOLhyphen"/>tis praeceptum de <hi>omnium bone<g ref="char:EOLhyphen"/>rum, venditione,</hi> &amp; <hi>in pauperes erogatione;</hi> per <hi>Noſtram Gentem</hi> vobis immitti; malè nimirum Idololatrica iſta <hi>Romana Con<g ref="char:EOLhyphen"/>gregatio</hi> vos in converſione veſtra
+<pb n="4" facs="tcp:152714:25"/>omnium bonorum diſpendio mulctavit.</p>
+            <p>Secundò <hi>eundem</hi> quem vos <hi>De<g ref="char:EOLhyphen"/>um</hi> Religìoſè colimus ac venera<g ref="char:EOLhyphen"/>mur, utrum ſit apud vos <hi>Elohim,</hi> aut <hi>Adonai;</hi> nos autem dicimus, Deum <hi>Adonai</hi> magis propriè ad nos, quam ad vos, pertinere: In<g ref="char:EOLhyphen"/>venietis enim in libro Pſalmorum <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> quod nos inter<g ref="char:EOLhyphen"/>pretamur, <hi>dixit Iebova domino meo ſede ad dextram meam: donec diſpo<g ref="char:EOLhyphen"/>ſuero inimicos tuos in ſcabellum pe<g ref="char:EOLhyphen"/>dum tuorum;</hi> neque poteſtis negare, <hi>Meſsiam</hi> illum filium <hi>Davidis</hi> hic nominari; et inde colligimus duas <hi>Trinitatis Perſonas;</hi> quem <hi>Trin-<g ref="char:V">Ʋ</g>num Deum</hi> nos etiam hodie ve<g ref="char:EOLhyphen"/>neramur; <hi>Hodie</hi> (inquam) <hi>Do<g ref="char:EOLhyphen"/>minica</hi> eſt <hi>Sanctae Trinitatis; Domi<g ref="char:EOLhyphen"/>nica</hi> proximè immediata a <hi>Pen<g ref="char:EOLhyphen"/>tecoſte,</hi> ſeu <hi>Dominica Adventus</hi> S.S. <hi>Spiritus.</hi> Et nos de <hi>Tribus Elohim</hi> tractatulos edimus, quos
+<pb n="5" facs="tcp:152714:25"/>probare poſſumus, <hi>ex veteris Teſta<g ref="char:EOLhyphen"/>menti libris.</hi> Tertiò pariter vo<g ref="char:EOLhyphen"/>biſcum agnoſcimus, et confitemur vetus illud <hi>Teſtamentum,</hi> eſſe ver<g ref="char:EOLhyphen"/>bum Dei; nec alium ejuſdem admittimus <hi>Canonem,</hi> quàm qui veſter eſt: et Utrique, <hi>Romanae Sectae</hi> hac in re contrariamur. Agnoſcimus etiam Deum, per ve<g ref="char:EOLhyphen"/>ſtrum populum, praeſervaſſe illum veteris <hi>Teſtamenti Canonem:</hi> et enixè rogamus Deum, ut vos illud probè intelligatis, ſicuti nos.</p>
+            <p>Quartò <hi>Sabbatum</hi> ita colimus vt vos, hoc tantùm dicimus, quod <hi>Adonai</hi> qui <hi>Dominus</hi> eſt <hi>Sabboth,</hi> five Sabbathi, mutavit diem. Sunt etiam alia quaedam de quibus in<g ref="char:EOLhyphen"/>ter nos convenit: et planè de toto <hi>Decalogo</hi> praeterquam de alterati<g ref="char:EOLhyphen"/>one <hi>Sabbathi</hi>
+            </p>
+            <p>Nunc autem videre liceat iſta, in quibus parum tibi ſtas, aut ve<g ref="char:EOLhyphen"/>ritati, nec tibi tecum, aut cum ve<g ref="char:EOLhyphen"/>ritate
+<pb n="6" facs="tcp:152714:26"/>convenit; unde ſpes poſita ſupra relationem <hi>Antonii Monte<g ref="char:EOLhyphen"/>zini</hi> vana apparebit, nec adeo divi<g ref="char:EOLhyphen"/>na, aut rationi conſentanea, ut no<g ref="char:EOLhyphen"/>ſtra, quam reſpuitis, <hi>Fides.</hi>
+            </p>
+            <p>Veſtra <hi>Montezini</hi> relatio duplex eſt fama. Prima ipſius <hi>Montezini</hi> a <hi>Franciſco Cazico</hi> tibi delata; altera à propatribus <hi>Franciſco</hi> tra<g ref="char:EOLhyphen"/>dita. Iſta <hi>Franciſci</hi> narratio ea lege facta; modo <hi>Antonius</hi> non eſſet <hi>moleſtus, aut nimium illum roga<g ref="char:EOLhyphen"/>ret, ne illum induceret, ut falſa diceret p.</hi> 10. Rem totam reddidit dubiam; fortaſſe <hi>Montezinus</hi> illum <hi>nimium rogavit;</hi> et tum fortaſſe <hi>Cazicus</hi> (huic rei ſatis aptus) <hi>mentioba<g ref="char:EOLhyphen"/>tur.</hi> Sed inde concludendum eſt, <hi>Prophetias</hi> impletum iri, et Patri<g ref="char:EOLhyphen"/>bus noſtri <hi>Parliamenti</hi> perſuadere <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aris, Reges Terrae interimere: utpote <hi>Meſſias</hi> regnaret, et totus orbis ſuo ſubijceretur Sceptro.</p>
+            <p>Sunt è nobis nonnulli ſatis facilè
+<pb n="7" facs="tcp:152714:26"/>credituri Chriſti <hi>Regnum Ter<g ref="char:EOLhyphen"/>reſtre per mille Annos duraturum, &amp; ipſos in ruinam</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>poſi<g ref="char:EOLhyphen"/>tos;</hi> cui rei ut ſatagunt, ita pro <hi>Tri<g ref="char:EOLhyphen"/>bus Regnis</hi> in uno <hi>Capite,</hi> nimium peregerunt. At fratres è gente <hi>Sco<g ref="char:EOLhyphen"/>torum</hi> veſtri hoc opus Conantur praetervertere; compellant enim filium <hi>Regis ablate:</hi> ni (quod ma<g ref="char:EOLhyphen"/>lè timeo) veſtigia majorum ſuo<g ref="char:EOLhyphen"/>rum premant, et veſtratis, <hi>Judae. Iſcarictae.</hi> Quod iamdudum per<g ref="char:EOLhyphen"/>commodè fecerunt, ita inhumani<g ref="char:EOLhyphen"/>terſuſpendendo, huic <hi>amiceſſi<g ref="char:EOLhyphen"/>mum:</hi> ut etiam noſtri his convitian<g ref="char:EOLhyphen"/>tur, eo nomine; et convitiabuntur, uſque dum mercede conduxerint, aut Bello devicerint <hi>Scotorum Synedrium.</hi> Bene caveant! <hi>Crum<g ref="char:EOLhyphen"/>wellus</hi> ſemel iam, illos perdomuit; cujus cauſa <hi>gratis illi habuerunt,</hi> et iterum habere poſſunt.</p>
+            <p>Sed Domine, <hi>Judaeis</hi> convenit cum <hi>Scotis,</hi> de deturbando Papa.
+<pb n="8" facs="tcp:152714:27"/>Atquid fiet de <hi>Antichriſto?</hi> Papiſtae illum de tribu <hi>Dan</hi> futurum aſſe<g ref="char:EOLhyphen"/>runt. Num vim illaturi eſtis <hi>fra<g ref="char:EOLhyphen"/>tri veſtro?</hi> Vos melodiae et harmo<g ref="char:EOLhyphen"/>niae amatores habiti eſtis: Sco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i autem fratres veſtri omnem concen<g ref="char:EOLhyphen"/>tum odio habent, praeter illum quem reddit <hi>tibia utricularis,</hi> aut aliquis è Pſalmis <hi>Roberti Wiſdo<g ref="char:EOLhyphen"/>mi.</hi> Sed fratres Iſraelitae! ſapite, et circumſpicite; Scoti Regem Sco<g ref="char:EOLhyphen"/>tum habebunt, cavete ne ſint <hi>hy<g ref="char:EOLhyphen"/>bridae!</hi> hiſe <hi>Chriſtianos</hi> proſiten<g ref="char:EOLhyphen"/>tur, non prorſus <hi>Iudaeos</hi> Anglia eſt iſtoru<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Terra Canaan,</hi> ſive <hi>promiſſi<g ref="char:EOLhyphen"/>onis:</hi> tamen aequè ac vos ſupra to<g ref="char:EOLhyphen"/>tum Mundum bene diſperſi ſunt, ut eſt in proverbio. <hi>Scotten rotten et Nummus adulterinus ubique Gentium ſunt.</hi>
+            </p>
+            <p>Vobis igitur incumbet, non<g ref="char:EOLhyphen"/>nullis noſtratium adhaerere Regni mille annorum cauſa: <hi>Napierus,</hi> Scotiae in hoc regnum multa et
+<pb n="9" facs="tcp:152714:27"/>probabilia invehitur, nunc ergo aut nunquam porrigite dextras <hi>Chiliaſtis,</hi> ſive <hi>Millenariis;</hi> ſit licet <hi>haereſis</hi> olim <hi>damnata; Origenes</hi> doctus erat, et linguae veſtrae peri<g ref="char:EOLhyphen"/>tiſſimus, multi etiam ex <hi>Antiquis</hi> hiſce partibus ſtetere; multi item è noſtra <hi>Synodo</hi> ijſdem iam ſtant. Attamen Regem iſtius Millenarij Regni, habebunt omnes <hi>Ieſum Bar Mariae;</hi> novum Meſſiam neu<g ref="char:EOLhyphen"/>tiquam admittent. Eſto; reſarcite mutuò veſtras licet diviſas ſententi<g ref="char:EOLhyphen"/>tias, ut convenire placebit; aut me<g ref="char:EOLhyphen"/>dium exquirite.</p>
+            <p>Quantum mea intereſt, et illo<g ref="char:EOLhyphen"/>rum qui ſunt de Eccleſiis verè reformatis (licet ſpem fovemu veſtrae converſionis et reſipiſcentiaes cogimur vobis pronuntiare, Per haſce veſtras perverſas opiniones Prophetiam implendam praeſtabi<g ref="char:EOLhyphen"/>tis, <hi>Meſsiam ita reverſurum, &amp; venturum, vt fur necte.</hi> Dum enim
+<pb n="10" facs="tcp:152714:28"/>hujus ſaeculi Regem ſplendidum ſperatis, Ipſe deſcendet <hi>de nubibus, cum voce tubae ad judicium.</hi> Con<g ref="char:EOLhyphen"/>tremiſcite, et cavete a <hi>valle Je<g ref="char:EOLhyphen"/>hoſhaphat!</hi> tunc certè veri Abrahae filii ipſi <hi>conregnabunt,</hi> per <hi>mille annos aeternitatis.</hi> Circumſpicite ne propter iſtiuſmodi impias ex<g ref="char:EOLhyphen"/>pectationes, cùm vos tùm illi cogi<g ref="char:EOLhyphen"/>tetis finem Mundi non ita vici<g ref="char:EOLhyphen"/>num ut eſt: et per veſtram infide<g ref="char:EOLhyphen"/>litatem, et Charitatis indigentiam, faciatis, ut <hi>decurtati ſint dies illi,</hi> ne Mundus continuetur per Annos 6000, ante adventum glorioſae di<g ref="char:EOLhyphen"/>ei eternitatis; et ſic vos <hi>excluda<g ref="char:EOLhyphen"/>mini in tenebras exteriores.</hi>
+            </p>
+            <p>Conſiderate igitur doctrinam <hi>Johannis Baptiſtae,</hi> et impigrè <hi>paeni<g ref="char:EOLhyphen"/>tentiam agite; Habetis Moſen, &amp; Prophetas,</hi> conſulite <hi>Stellam, <g ref="char:V">Ʋ</g>ir<g ref="char:EOLhyphen"/>ginis Filium, et Ramum,</hi> et videte, num hic <hi>qui venturus</hi> erat, iam venerit necne? Et <hi>Eliiah</hi> etiam, in <hi>Ioanne
+<pb n="11" facs="tcp:152714:28"/>Baptiſta?</hi> Nonne ruinam invexit Idolorum Templis, et ſilentium Oraculis? Nonne <hi>velum Templi ab</hi> ipſo <hi>fiſſum eſt, in duas partes, à ſummo ad imum?</hi> Nonne <hi>ſolvit me<g ref="char:EOLhyphen"/>dium naceriae parietem,</hi> inter Iudaeos et Gentes? Nondum venit <hi>Shilo?</hi> Ubi eſt Rex Iudae? Fuitne <hi>Herodes Idumeus?</hi> Nonne Salva<g ref="char:EOLhyphen"/>tor noſter etiam vobis <hi>Caeleſte Regnum</hi> paravit, ſi modo in cum crederetis? Fratres, nolite ſtulteſcere, nec de Terreſtri Regno diutius ſomniari! Nonne Caelum praeſtat? Uos fidem adhibetis, <hi>diei Iudicii</hi> et <hi>Reſurrectioni; Saduceorum Secta,</hi> inter vos (uti ſpero) locumampli<g ref="char:EOLhyphen"/>us non habet, Auſcultate igitur veſtratibus' <hi>Paulo,</hi> et <hi>Petro,</hi> melius <hi>Moſen</hi> et Prophetas interpretan<g ref="char:EOLhyphen"/>tibus quam cuiquam è vobis.</p>
+            <p>Quis miſit <hi>Mentezinum,</hi> vobis praedicatorem? Nolite (<hi>Andaba<g ref="char:EOLhyphen"/>tarum</hi> more) errare vanis ex<g ref="char:EOLhyphen"/>pectationibus:
+<pb n="12" facs="tcp:152714:29"/>Et vos et ille confite<g ref="char:EOLhyphen"/>mini, <hi>tempus</hi> illud <hi>veſtrae reſtitutio<g ref="char:EOLhyphen"/>nis latere,</hi> imo et <hi>populum latere,</hi> donec iſte dies venerit. Et crede mihi uterque latebit, donec veneritis in <hi>tenebras exteriores:</hi> &amp; ſi non mihi, ſal<g ref="char:EOLhyphen"/>tem credite <hi>genti veſtrae,</hi> &amp; <hi>Prophetis veſtris</hi>) niſi reſipiſcatis et agnoſcatis voſmet crucifixores domini Ieſu Chriſti. Scrutamini enim vos ipſos in his quae manifeſta ſunt: Habetis vos ad unum omnes in corporibus veſtris fluxu<g ref="char:cmbAbbrStroke">̄</g> ſanguinis, an non? Non<g ref="char:EOLhyphen"/>ne dicunt <hi>Itali ſe prius Judaeum, na<g ref="char:EOLhyphen"/>ribus ſentire quam oculis?</hi> Majores veſtri protulerunt haec verba, <hi>ſanguis ejus ſuper nos et ſuper filios noſtros?</hi> Nonne impleta fuit iſthaec Prophe<g ref="char:EOLhyphen"/>tia in <hi>ruina veſtri Templi,</hi> et <hi>diſ<g ref="char:EOLhyphen"/>perſionibus reliquiarum veſtrae gen<g ref="char:EOLhyphen"/>tis?</hi> Quae ſigna manifeſtiora, quas clariores Prophetias quaeritis? Oh fratres, nolite Caecutire de induſtria.</p>
+            <p>Libenter Concederem vobis
+<pb n="13" facs="tcp:152714:29"/>(quod ad me attinet) inter nos et commorandi et adorandi loca; ſed non <hi>ſacrificandi!</hi> hoc enim eſ<g ref="char:EOLhyphen"/>ſet negare <hi>Adonai,</hi> Chriſtum no<g ref="char:EOLhyphen"/>ſtrum: ſicut docuit veſtras <hi>Paulus.</hi> Ut &amp; licebit vobis, vetus Teſtamen<g ref="char:EOLhyphen"/>tum interpretari, imò &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſtianis vos audire; dummodo vos mutuo noſtris auſcultabitis: Nec deſunt nobis viri in <hi>Linguis Orientatalibus</hi> valde docti, et eorum nonnulli adeò egeni &amp; indigentes ut (quod &amp; vos deceret) veſtram gentem operis mer<g ref="char:EOLhyphen"/>cedem penſuram, docerent eas.</p>
+            <p>Sed quaeſo vos, nolite ante adven<g ref="char:EOLhyphen"/>tum <hi>Meſſiae</hi> Regum ruinam conari; conatus enim perdifficilis erit in Reges <hi>Papiſtas,</hi> ſin autem molire hoc placet contra Reges <hi>Proteſtantium no<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> vobis, ſed Papiſtis, non <hi>Hieruſoly<g ref="char:EOLhyphen"/>mis,</hi> ſed <hi>Romae,</hi> triumpha<g ref="char:cmbAbbrStroke">̄</g> parabitis.</p>
+            <p>Cogitavi imbecillitatem vobis, veſtrorum argumentorum propoſu<g ref="char:EOLhyphen"/>iſſe, necnon vanitatem veſtrae ſpei, &amp; expectationis <hi>Monarchae Terra<g ref="char:EOLhyphen"/>ſtris,</hi>
+               <pb n="14" facs="tcp:152714:30"/>&amp; <hi>Meſſiae.</hi> Sed malim vos promptos, attentioni probationis noſtrae fidei &amp; ejuſdem demonſtra<g ref="char:EOLhyphen"/>tionibus habere, &amp; in auxilium po<g ref="char:EOLhyphen"/>puli veſtri hac in re, optarem, reve. rendum noſtrum <hi>D. Hammondum libellum ſuum de juſtitia ſive equitate Chriſtianae Religionis,</hi> latino ſer<g ref="char:EOLhyphen"/>mone donaret.</p>
+            <p>Intentionem tuam de continua<g ref="char:EOLhyphen"/>tione Hiſtorae veſtratis <hi>Joſephi,</hi> val<g ref="char:EOLhyphen"/>de probo. <hi>vide p.</hi> 44, 45 &amp;c. <hi>c.</hi> 16.</p>
+            <p>Hic autem meis finem impoſuiſſe mihimet propoſui, tuorum abunde ſatur ſcriptorum tricis, &amp; nugis. Sed reverà adeo amore veſtri, &amp; converſi<g ref="char:EOLhyphen"/>onis veſtrae cupidus ſum; ut prorſus dicam, nos Chriſtianos majori ho<g ref="char:EOLhyphen"/>nore gentem veſtram, quam vosipſi proſequimur. Nos enim colimus veſtratem, filium <hi>Davidis</hi> &amp; <hi>Mariae fi<g ref="char:EOLhyphen"/>lium Altiſſimi,</hi> verè <hi>Deum</hi> verè <hi>homi<g ref="char:EOLhyphen"/>nem:</hi> quem &amp; nos &amp; vos crucifixum reddidimus per peccata; tametſi
+<pb n="15" facs="tcp:152714:30"/>actus hujus crucifixionis externus, <hi>propatribus</hi> veſtris ſolis aſcribitur. Veneramur omnes Prophetas proge<g ref="char:EOLhyphen"/>nitores veſtros, veneramur item Pa<g ref="char:EOLhyphen"/>tres noſtros in Chriſto, de gente ve<g ref="char:EOLhyphen"/>ſtra, <hi>Sanctos</hi> ſcilicet <hi>Deſcipulos,</hi> &amp; <hi>Apo<g ref="char:EOLhyphen"/>ſtolos,</hi> cujus doctrina, omnes dij fictitij Ethnicorum everſi ſunt: &amp; quorum <hi>Martyrio,</hi> quod paſſi ſunt, pro fide, &amp; expectatione Patrum, ſe<g ref="char:EOLhyphen"/>men Patri veſtro <hi>Abrahamo</hi> exer<g ref="char:EOLhyphen"/>tum eſt. Nos enim filij conſurrexi<g ref="char:EOLhyphen"/>mus Abrahami fidei, quam fidem nobis, &amp; mundo, nunc praetulimus, tamdiu, quamdiu ante nos, lex Moſaica a vobis praelata fuit. Et ad<g ref="char:EOLhyphen"/>huc praeferimus legem illam Dei aeternam, ſcilicet <hi>Decalogum,</hi> et ſi <hi>lex caeremoniarum</hi> per <hi>ſacrificium illum vnum,</hi> ejus qui <hi>Sacerdos erat ſecundum ordinem Melchiſedeci,</hi> a<g ref="char:EOLhyphen"/>brogata ſit. Quos autem habetis vos Sacerdotes ordinis <hi>Aaronici?</hi> Quaerendi ſunt vobis apud <hi>Indeos,</hi>
+               <pb n="16" facs="tcp:152714:31"/>aut <hi>ubi gentium</hi> neſcitis! Sit <hi>Antoni<g ref="char:EOLhyphen"/>us</hi> veſter deductor in <hi>antrum Monte<g ref="char:EOLhyphen"/>zini,</hi> apud <hi>D. Quixotum.</hi> Sed mi frater; etſi plura ſatis ſuper hac re ex veteri Teſtamento, &amp; libro Pſal<g ref="char:EOLhyphen"/>morum poſſim dicere, tamen haec doctioribus noſtris qui Linguas Ori<g ref="char:EOLhyphen"/>entales callent, relinquenda cenſeo.</p>
+            <p>Ac nunc redeo, ad partes quae mea propriè interſunt, praeparatio<g ref="char:EOLhyphen"/>nes (ſcilicet) ad veſtri admiſſionem in Angliam. Quibus (ſi ita Parlia<g ref="char:EOLhyphen"/>mento viſum fuerit) cautiones, &amp; Regulas dabo.</p>
+            <p>Primùm hic haereo: utrum venia <hi>circumciſioni veſtrae</hi> inter nos con<g ref="char:EOLhyphen"/>cedenda ſit, necne? ſi daremus enim hanc vobis, nos ipſi negaremus Chriſtum veniſſe. Neque vobis ne<g ref="char:EOLhyphen"/>ceſſario illa ſemper incumbit; per quadraginta annos in eremo omiſſa fuit: ut &amp; per longa temporum ſpatia in captivitatibus veſtris. Et ſane vos, nihil aliud agitis, niſi Chriſtum iterum recrucifigere dum
+<pb n="17" facs="tcp:152714:31"/>negatis ipſum <hi>Meſſiam</hi> eſſe. Quod item faciunt fratres veſtri <hi>Turcae.</hi>
+            </p>
+            <p>Quaero igitur num differetis cir<g ref="char:EOLhyphen"/>cum ciſiones veſtras donec inter nos commorabitis? Hoc tantum peti<g ref="char:EOLhyphen"/>mus, hujus intermiſſionem, donec adveniat <hi>Meſſias</hi> cum terreſtri ſuo regno; quod <hi>brevi futurum</hi> non<g ref="char:EOLhyphen"/>nulli èvobis audactèr <hi>dicitis.</hi>
+            </p>
+            <p>Inſtar hujus hanc vobis indulgeri placet immunitatem, fine vi aut pa<g ref="char:EOLhyphen"/>na, vos et liberi veſtri, ut <hi>Baptiſmo</hi> carere poſſitis. Cujus carentiam vobis fraudi eſſe prorſus abomina<g ref="char:EOLhyphen"/>mur. Si qui autem è vobis <hi>paeniten<g ref="char:EOLhyphen"/>tiam agetis,</hi> et <hi>credetis</hi> (ì) fidem noſtram amplexi fueritis, honore et beneficio Baptiſmi, dignemini. Siqui autem per Apoſtaſiam, ſe ſubduxerint, graviter plectendi ſunto.</p>
+            <p>Hoc autem vobis innotuiſſe pla<g ref="char:EOLhyphen"/>cebit, <hi>Tabularium Archivum</hi> vulgò the <hi>Rolls</hi> in <hi>angiporto Cancellariae</hi>
+               <pb n="18" facs="tcp:152714:32"/>Hoſpitium olim Iudaeorum <hi>con<g ref="char:EOLhyphen"/>verſorum</hi> fuiſſe. Et pluribus con<g ref="char:EOLunhyphen"/>verſis amodò plura Collegia ſi ne<g ref="char:EOLhyphen"/>ceſſe ſit inſtruemus</p>
+            <p>Minores <hi>Iudaei Chriſtiani defuncti</hi> haeredes <hi>in aſſe</hi> erunt, ſeu plenam e<g ref="char:EOLhyphen"/>jus rem poſſidebunt, Qui <hi>Judaeus</hi> tantum (hac eſt) <hi>non converſus,</hi> mo<g ref="char:EOLhyphen"/>ritur, tertiam tantùm partem rei ſuae poſteris relinquet: alteram reipub<g ref="char:EOLhyphen"/>licae: poſtremam denique in alimo<g ref="char:EOLhyphen"/>nium ſupradictorum Collegiorum.</p>
+            <p>Ad introitum veſtrum per exa<g ref="char:EOLhyphen"/>men luſtrari placet, &amp; in <hi>catalo<g ref="char:EOLhyphen"/>gum</hi> digerere nomina circumciſo<g ref="char:EOLhyphen"/>rum antehac, &amp; <hi>Album</hi> ſervari vbi denuò circumcidendorum nomina ſcribantur. Quod ſiqui neglexerint &amp; morte &amp; confiſcatione mulcta<g ref="char:EOLhyphen"/>buntur.</p>
+            <p>Singulis quoque annis <hi>Jnquiſiti<g ref="char:EOLhyphen"/>onem</hi> fieri placet, de liberis mari<g ref="char:EOLhyphen"/>bus, circumciſi ſint necne? ſi ita! num res peracta fuerit in <hi>Anglia,</hi>
+               <pb n="19" facs="tcp:152714:32"/>aut locis quae ſunt <hi>Anglicanae</hi> diti<g ref="char:EOLhyphen"/>onis? &amp; inde pars altera totius rei parentis <hi>infiſcum</hi> eat.</p>
+            <p>Siquis <hi>Judaeus</hi> praeſumeret cir<g ref="char:EOLhyphen"/>cumcidere <hi>Chriſtianum,</hi> ubicunque gentium factum fuerit ſcelus hoc, paenas mortis &amp; confiſcationis luito.</p>
+            <p>Vtriuſque ſexus <hi>Judaei</hi> etiam non<g ref="char:EOLhyphen"/>dum converſi ad conciones Chriſti<g ref="char:EOLhyphen"/>anorum, venire ſi placet, poſſint, mo<g ref="char:EOLhyphen"/>do illic honeſte &amp; benè ſe geſſerint. Semel autemin anno jubeantur, imo cogantur convenire, viz. Die <hi>Paſſionis dominicae</hi> quando nomina virorum, faeminarum &amp; liberorum ſcribentur in <hi>Album,</hi> vt &amp; nomina <hi>converſo<g ref="char:EOLhyphen"/>rum.</hi>
+            </p>
+            <p>Duplex vectigal bene ſolvere poſ<g ref="char:EOLhyphen"/>ſint, &amp; hi et in <hi>Anglia poſtnati</hi> ante converſionem, ſcilicet poſt autem ſimplex ſoluturi <hi>Fratrics,</hi> nullas &amp; <hi>Sodali<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia</hi> nulla habebunt ſine <hi>ſpeci<g ref="char:EOLhyphen"/>ali permiſſu &amp; licentia,</hi> &amp; habitare &amp;
+<pb n="20" facs="tcp:152714:33"/>commercia tractare quibuslibet Angliae locis licebit.</p>
+            <p>
+               <hi>Corpora</hi> quod ajunt <hi>Communia</hi> nullis niſi converſis Judaeis conce<g ref="char:EOLhyphen"/>denda ſint &amp; omnes in communi proprios alant pauperes.</p>
+            <p>Nullus <hi>Iudaeus</hi> ducet <hi>Chriſtia<g ref="char:EOLhyphen"/>nam,</hi> nullus <hi>Chriſflianus Judaea<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> ante converſionem, nec viciſſim, nubert.</p>
+            <p>Si molientur quenquam è ſuagen<g ref="char:EOLhyphen"/>te in regem ſibi conſtituere, mortis &amp; confiſcationis poenas luant quicun<g ref="char:EOLhyphen"/>que hujus criminis rei ſunt.</p>
+            <p>Si foedera ferient cum <hi>Annabap<g ref="char:EOLhyphen"/>tiſtis</hi> aut <hi>Aequifaratoribus</hi> Impera<g ref="char:EOLhyphen"/>torem, aut <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> conſtituere ſimilem <hi>Joanni Lugdunenſi,</hi> aut qualis crat <hi>Knipperdolling,</hi> mortis &amp; confiſcationis paenas ſubeunto.</p>
+            <p>Omnibus caeteris teriae legibus ſe ſubdant, ijs item legibus quas pla<g ref="char:EOLhyphen"/>cebit <hi>Parlamento</hi> addere, aut qui<g ref="char:EOLhyphen"/>bus detrahere, pro eorum placitis in ordine ad Judaeorum temperatio<g ref="char:EOLhyphen"/>nem.</p>
+            <pb n="21" facs="tcp:152714:33"/>
+            <p> Nunc autem frater <hi>Manaſſe,</hi> pri<g ref="char:EOLhyphen"/>u quam tibi valedicam, hoc unum addere liceat, Probe noſti aetatem Mundi uſque adhuc. Quidam com<g ref="char:EOLhyphen"/>putant <hi>duo millia</hi> annorum ante <hi>le<g ref="char:EOLhyphen"/>gem latam: duo millia</hi> ſub <hi>lege,</hi> &amp; mille <hi>ſexcentos quinqu aginta</hi> à <hi>Chriſto nato.</hi> Hic annus eſt <hi>Iubilaeus Sabathum</hi> nunc expecta <hi>aeternitatis</hi> Fieri poteſt mundum per ſex millia annorum non ducraturum eſſe A mundi Cre<g ref="char:EOLhyphen"/>atione <hi>anni</hi> 5410. ſecundu<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>aeram tu<g ref="char:EOLhyphen"/>am</hi> praetericrunt. Quis locus igitur, milleannis terreſtri <hi>Meſſiae</hi> regno? Li<g ref="char:EOLhyphen"/>betaudire narrationem nuperrime receptam è meliore, uti ſpero, origi<g ref="char:EOLhyphen"/>ne, quam illa tua <hi>Montezint?</hi> haec eſt.</p>
+            <p>Quidam veſtras <hi>Rabbimus</hi> jam moribundus ſuos ſibi advocatos (inter <hi>Belgas</hi> non multis abhinc an<g ref="char:EOLhyphen"/>nis) ſic alloquitur. <hi>Valde diu expecta<g ref="char:EOLhyphen"/>vimus noſtrum Meſsiam; &amp; ſi non ve<g ref="char:EOLhyphen"/>nerit ante annos</hi> 1650. <hi>aut</hi> 51. <hi>pe<g ref="char:EOLhyphen"/>ractos, amplecti vobis ſuadeo Chriſtia<g ref="char:EOLhyphen"/>norum</hi>
+               <pb n="22" facs="tcp:152714:34"/>Meſſiam <hi>neceſſe eſt ut ipſe ſit</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Et ante ejus <hi>Thronum,</hi> procul dubiò, <hi>omnes</hi> Proteſtantium <hi>Reges Coronas ſuas mittere aut ab<g ref="char:EOLhyphen"/>jicere parati erunt.</hi> Conſule, ſi placet, aliquot <hi>Pſalmos,</hi> quorum nonnullos tibi indigitabo, viz. <hi>Pſal.</hi> 65. v. 2. 5. 7. 8. 13. <hi>Pſal.</hi> 66. v. 1, 2, 3, 6. <hi>Pſal.</hi> 67. per totum <hi>Pſal.</hi> 68. Hujus diei matutinis lectioni<g ref="char:EOLhyphen"/>bus proportionatum, <hi>v.</hi> 1. <hi>Fxurgat Deus, &amp; diſsipentur inimici ejus, &amp; fugiant qui oderunt eum, à facie ejus,</hi> &amp;c. 2.3.4 5.6.11.12.13.14.15.16.17.18. <hi>Aſcendiſti in altum, cepiſti cap<g ref="char:EOLhyphen"/>tivitatem, accepiſti dona in hominibus; etenim non credentes, inhabitare Do<g ref="char:EOLhyphen"/>minum Deum,</hi> &amp;c. <hi>ver.</hi> 19 20.21.22.23.27. <hi>Ibi</hi> Benjamin <hi>parvus, &amp; do<g ref="char:EOLhyphen"/>minatur corum; Principes</hi> Jehudae, <hi>&amp; caetus eorum: Principes</hi> Zebulunis, <hi>Principes</hi> Naphthali. Attende ut primus Rex ſuit è Tribu <hi>Benjamin;</hi> Attende item quot Tribus rever<g ref="char:EOLhyphen"/>tentur.
+<pb n="32" facs="tcp:152714:34"/>
+               <hi>v.</hi> 28.29.30.31.32.33.34. <hi>Tribuite robur Deo, cujus excellentia eſt ſuper</hi> Iſraelem, <hi>&amp; cujus robur in ſupe<g ref="char:EOLhyphen"/>rioribus nubibus.</hi> Quid amplius ani<g ref="char:EOLhyphen"/>litèr deſipitis circa ejus in terris <hi>temporale regnum.</hi> Conſule <hi>Pſal.</hi> 80. <hi>v.</hi> 14. <hi>Deus exercituum, revertere jam, intuere è caelis, &amp; reſpice, ac vi<g ref="char:EOLhyphen"/>ſita vitem hanc.</hi> ver. 15. <hi>Et ſurculum quem plantaverat dextra tua; id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> propter filium quem fortificaſti tibi.</hi> ver. 18. <hi>Adſit manus tua viro dextrae tuae, filio hominis quem fortificaſti tibi.</hi>
+            </p>
+            <p>Dicunt Rabbini duos eſſe, qui <hi>Meſ<g ref="char:EOLhyphen"/>ſiae</hi> nomen ſubeunt; alterum <hi>Chri<g ref="char:EOLhyphen"/>ſtianum,</hi> quem vocant <hi>Ben Joſeph;</hi> al<g ref="char:EOLhyphen"/>terum quem ipſi expectant <hi>Meſſiam, Ben David.</hi> Nonnè noſter fuit etiam <hi>Ben David?</hi> Conſule Genealogias ſecundum <hi>Matthaeum,</hi> &amp; <hi>Lucam;</hi> po<g ref="char:EOLhyphen"/>ſteriori enim invenies <hi>Mariae</hi> paren<g ref="char:EOLhyphen"/>telam, quae poſt <hi>Joſephum</hi> conjugem, proxima erat haeres.</p>
+            <pb n="25" facs="tcp:152714:35"/>
+            <p> 
+               <hi>Ecce virgo concepit, &amp; peperit fi<g ref="char:EOLhyphen"/>lium! Hic erat ille Ramus &amp; vir dex<g ref="char:EOLhyphen"/>tra Dei; cui nomen erat Admirabilis, &amp; Immanuel.</hi> Saepius etiam à ſpi<g ref="char:EOLhyphen"/>ritibus propheticis quos ſanavit no<g ref="char:EOLhyphen"/>minatus filius <hi>Davidis</hi> dum vixit in terris. Imò ipſi Daemones hunc confitentur filium <hi>Davidis,</hi> &amp; que<g ref="char:EOLhyphen"/>rebantur <hi>illum veniſſe ante tempus in corum cruciatum.</hi>
+            </p>
+            <p>Mira plane erat illa productio. <hi>Spiritus Dei obumbravit</hi> hanc <hi>vir<g ref="char:EOLhyphen"/>ginem,</hi> &amp;c. Quidni autem redderet illam ſic gravidam, ut etiam reddi<g ref="char:EOLhyphen"/>dit abyſſum primo <hi>Geneſeos,</hi> ver. 2. <hi>Terra erat inanis &amp; vacua, &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ene<g ref="char:EOLhyphen"/>brae erant ſuper faciem abyſsi, &amp; ſpi<g ref="char:EOLhyphen"/>ritus Dei ferebatur ſuper aquas.</hi> Ecce tibi tertia S.S. <hi>Trinitatis</hi> perſona. <hi>Et dixit Deus, fiat lux, &amp; facta eſt lux.</hi> Et quomodo ex hac <hi>incubatione lux</hi> producebatur, eodem modo ex hac etiam <hi>obumbratione,</hi> Sal<g ref="char:EOLhyphen"/>vator noſter <hi>Chriſtus</hi> vera &amp; aeter<g ref="char:EOLhyphen"/>na
+<pb n="24" facs="tcp:152714:35"/>lux <hi>concipiebatur de Sipirt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sancto in forma hominis.</hi> Qui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amplius moramini aut deſide<g ref="char:EOLhyphen"/>ratis?</p>
+            <lg>
+               <l>Sanctae &amp; individuae Trini<g ref="char:EOLhyphen"/>tati Gloria.</l>
+               <l>Gloria Deo in excelſis, &amp; in Terra Pax, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAg. 1. l. 1 for your r. the, p. 8. l. 7. for loke r looke. p. 9. l. 10 for pertition r. patition p. 13. l. 4. for eternall r externall. p. 19. l. 17. for and he. r. and if he. p. 20. l. 14. dele a. p. 23. l. 1. dele <hi>See Sylex &amp;c.</hi> &amp; adde l. 12.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
